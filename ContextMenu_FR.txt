@@ -1,0 +1,4 @@
+ContextMenu_FR = {
+    ContextMenu_AddFilter = "Ajouter un filtre à %1",
+    ContextMenu_RemoveFilter = "Retirer le filtre de %1",
+}
