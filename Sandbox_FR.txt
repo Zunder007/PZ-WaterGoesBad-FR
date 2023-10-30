@@ -1,0 +1,21 @@
+Sandbox_FR = {
+    Sandbox_WaterGoesBad = "Water Goes Bad",
+    Sandbox_WaterGoesBad_ExpirationMin = "Nombre de jours minimum avant que l'eau ne devienne mauvaise",
+    Sandbox_WaterGoesBad_ExpirationMin_tooltip = "En jours, quand, au plus tôt, l'eau peut se gâter. Ce nombre de jours ne commence à être compter qu'après la coupure d'eau générale.",
+    Sandbox_WaterGoesBad_ExpirationMax = "Nombre de jours maximum avant que l'eau ne devienne mauvaise",
+    Sandbox_WaterGoesBad_ExpirationMax_tooltip = "En jours, quand, au plus tard, l'eau peut se gâter. Ce nombre de jours ne commence à être compter qu'après la coupure d'eau générale.",
+    
+    Sandbox_WaterGoesBad_NeedFilterWater = "Les éviers raccordés ont besoin de filtres",
+    Sandbox_WaterGoesBad_NeedFilterWater_tooltip = "Les joueurs doivent ajouter des filtres à leurs éviers raccordés pour nettoyer l'eau. Sinon, les éviers raccordés fournissent toujours de l'eau salubre, même si leur source d'eau ne l'est pas (comme le jeu de base).",
+
+    Sandbox_WaterGoesBad_ReduceWaterOverTime = "Égoutter l’eau au fil du temps",
+    Sandbox_WaterGoesBad_ReduceWaterOverTime_tooltip = "Après la coupure d'eau, l'eau s'écoulera des robinets.",
+    Sandbox_WaterGoesBad_WaterReductionRate = "Taux de drainage de l'eau",
+    Sandbox_WaterGoesBad_WaterReductionRate_tooltip = "Quelle quantité d'eau sera retirée des robinets par jour.",
+    Sandbox_WaterGoesBad_WaterReductionChance = "Chance de drainage de l'eau",
+    Sandbox_WaterGoesBad_WaterReductionChance_tooltip = "Chance, par jour, que l'eau soit retirée, pour ajouter de la variance.",
+    Sandbox_WaterGoesBad_MinimumWaterLeft = "Eau restante minimale",
+    Sandbox_WaterGoesBad_MinimumWaterLeft_tooltip = "Quantité d'eau qui restera quoi qu'il arrive.",
+    Sandbox_WaterGoesBad_ScaleWaterLoss = "Perte d'eau proportionnelle",
+    Sandbox_WaterGoesBad_ScaleWaterLoss_tooltip = "Les récipients d'eau plus grands, comme les baignoires, perdront de l'eau plus rapidement que les éviers..",
+}
